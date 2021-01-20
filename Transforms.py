@@ -3,8 +3,6 @@ import torch
 import random
 import cv2
 
-__author__ = "Sachin Mehta"
-
 
 class Scale(object):
     """
